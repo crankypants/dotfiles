@@ -174,3 +174,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	email = sean.daly@nike.com
+	name = Sean Daly
