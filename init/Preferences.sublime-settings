@@ -1,41 +1,27 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Twilight (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": false,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		"Desktop.ini",
-		"*.pyc",
-		"._*",
-		"Thumbs.db",
-		".Spotlight-V100",
-		".Trashes"
-	],
+	"draw_indent_guides": false,
+	"font_face": "Menlo",
+	"font_size": 16,
+	"highlight_modified_tabs": true,
 	"folder_exclude_patterns":
 	[
 		".git",
 		"node_modules"
 	],
-	"font_face": "Monaco",
-	"font_size": 13,
-	"highlight_modified_tabs": true,
-	"hot_exit": false,
-	"line_padding_bottom": 5,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"remember_open_files": false,
 	"rulers":
 	[
 		80
 	],
-	"show_encoding": true,
-	"show_line_endings": true,
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+	],
+	"show_tab_close_buttons": false,
+	"spell_check": false,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"theme": "Spacegray.sublime-theme",
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
